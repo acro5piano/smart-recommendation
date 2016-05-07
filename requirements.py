@@ -1,0 +1,16 @@
+backports.shutil-get-terminal-size==1.0.0
+decorator==4.0.9
+numpy==1.11.0
+pandas==0.18.1
+pexpect==4.0.1
+pickleshare==0.7.2
+ptyprocess==0.5.1
+py==1.4.31
+pytest==2.9.1
+python-dateutil==2.5.3
+pytz==2016.4
+scikit-learn==0.17.1
+scipy==0.17.0
+simplegeneric==0.8.1
+six==1.10.0
+traitlets==4.2.1
